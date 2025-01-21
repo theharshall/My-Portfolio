@@ -99,10 +99,10 @@ const Work = () => {
               <WorkImage
                 image={
                   index === 0
-                    ? "project-1.png"
+                    ? "../../src/assets/image/project-1.png"
                     : index === 1
-                    ? "project-2.png"
-                    : "project-3.png"
+                    ? "../../src/assets/image/project-2.png"
+                    : "../../src/assets/image/project-3.png"
                 }
                 alt={`Project ${index + 1}`}
               />
