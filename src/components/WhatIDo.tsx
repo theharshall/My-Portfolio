@@ -87,11 +87,12 @@ const WhatIDo = () => {
             <div className="what-corner"></div>
 
             <div className="what-content-in">
-              <h3>DEVELOP</h3>
+              <h3>Full Stack Development</h3>
               <h4>Description</h4>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas
-                quia aliquid laboriosam ducimus sit molestiae.
+                As a full-stack developer, I create high-quality, scalable, and
+                responsive web applications tailored to each project's unique
+                needs.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
@@ -101,10 +102,7 @@ const WhatIDo = () => {
                 <div className="what-tags">React</div>
                 <div className="what-tags">Css</div>
                 <div className="what-tags">Node.js</div>
-                <div className="what-tags">Next.js</div>
                 <div className="what-tags">Express.js</div>
-                <div className="what-tags">PHP</div>
-                <div className="what-tags">MySql</div>
               </div>
               <div className="what-arrow"></div>
             </div>
@@ -128,22 +126,24 @@ const WhatIDo = () => {
             </div>
             <div className="what-corner"></div>
             <div className="what-content-in">
-              <h3>DESIGN</h3>
+              <h3>UI/UX Design</h3>
               <h4>Description</h4>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas
-                quia aliquid laboriosam ducimus sit molestiae
+                As a UI/UX designer, I focus on creating visually appealing,
+                user-friendly interfaces and optimizing the user experience. I
+                work closely with development teams to ensure seamless
+                integration of design and functionality.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">Blender</div>
-                <div className="what-tags">Zbrush</div>
+                <div className="what-tags">Figma</div>
+                <div className="what-tags">Adobe XD</div>
+                <div className="what-tags">Sketch</div>
+                <div className="what-tags">Wireframing</div>
+                <div className="what-tags">Prototyping</div>
+                <div className="what-tags">Usability Testing</div>
                 <div className="what-tags">UI Design</div>
-                <div className="what-tags">Motion</div>
-                <div className="what-tags">Rigging</div>
-                <div className="what-tags">3D Animation</div>
-                <div className="what-tags">Character Design</div>
-                <div className="what-tags">Modelling</div>
+                <div className="what-tags">UX Research</div>
               </div>
               <div className="what-arrow"></div>
             </div>

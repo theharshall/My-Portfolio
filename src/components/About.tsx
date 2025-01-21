@@ -6,9 +6,12 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic quis
-          dolores numquam iusto Ratione earum ducimus autem id iure pariatur
-          dolorum quae maiores.
+          Hi, I’m Harshal Ahirrao, a Full Stack Developer passionate about
+          building efficient and user-friendly web applications. I specialize in
+          frontend technologies like HTML, CSS, JavaScript, React, and Tailwind
+          CSS, as well as backend technologies like Node.js, Express, and
+          MongoDB.
+          I love learning new technologies and turning ideas into functional, reliable digital experiences.
         </p>
       </div>
     </div>

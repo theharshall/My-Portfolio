@@ -11,20 +11,20 @@ const Contact = () => {
             <h4>Email</h4>
             <p>
               <a href="mailto:example@mail.com" data-cursor="disable">
-                abc@gmail.com
+                harshalpersonal23@gmail.com
               </a>
             </p>
             <h4>Phone</h4>
             <p>
               <a href="tel:+919920782622" data-cursor="disable">
-                +91 9988776655
+                +91 9096892317
               </a>
             </p>
           </div>
           <div className="contact-box">
             <h4>Social</h4>
             <a
-              href="https://github.com"
+              href="https://github.com/theharshall"
               target="_blank"
               data-cursor="disable"
               className="contact-social"
@@ -40,7 +40,7 @@ const Contact = () => {
               Linkedin <MdArrowOutward />
             </a>
             <a
-              href="https://x.com"
+              href="https://x.com/ahirraoharshall"
               target="_blank"
               data-cursor="disable"
               className="contact-social"
@@ -48,7 +48,7 @@ const Contact = () => {
               Twitter <MdArrowOutward />
             </a>
             <a
-              href="https://www.instagram.com"
+              href="https://www.instagram.com/__theharshal5/"
               target="_blank"
               data-cursor="disable"
               className="contact-social"
@@ -58,7 +58,7 @@ const Contact = () => {
           </div>
           <div className="contact-box">
             <h2>
-              Designed and Developed <br /> by <span>Kabir Singh</span>
+              Full Stack Developer<br /> by <span>Harshal Ahirrao</span>
             </h2>
             <h5>
               <MdCopyright /> 2025
