@@ -3,7 +3,6 @@ import WorkImage from "./WorkImage";
 import gsap from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
 import { useGSAP } from "@gsap/react";
-import image from "../image/Screenshot 2025-01-20 144314.png";
 
 gsap.registerPlugin(useGSAP);
 
