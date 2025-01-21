@@ -1,3 +1,4 @@
+// Remove the unused `image` import at the top of the file
 import "./styles/Work.css";
 import WorkImage from "./WorkImage";
 import gsap from "gsap";
@@ -98,10 +99,10 @@ const Work = () => {
               <WorkImage
                 image={
                   index === 0
-                    ? "first-project.png"
+                    ? "project-1.png"
                     : index === 1
-                    ? "Third-project.png"
-                    : "second-project.png"
+                    ? "project-2.png"
+                    : "project-3.png"
                 }
                 alt={`Project ${index + 1}`}
               />
